@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omsai
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Diploma in Computer Engineering
+- 🌱 I’m currently learning Diploma in Computer Engineering,
 Currently studying at Puranmal Lahoti Government Polytechnic Latur
 - 📫 oalladwar1@gmail.com is my email. You can contact me here
 
